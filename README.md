@@ -78,5 +78,5 @@ Unlawfully copying, modifying, or distributing this software is strictly prohibi
 ---
 
 <div align="center">
-  Developed with ❤️ by <a href="https://traivimiya.in">Traivimiya</a>
+  Developed with ❤️ by <a href="https://avmonitor.traivimiya.in">Traivimiya</a>
 </div>
