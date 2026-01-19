@@ -42,7 +42,6 @@ Currently optimized for **ESP32** ecosystems, it combines a robust Serial Consol
 ### Windows (Currently Supported)
 1. Download the latest installer: **[AntigravityMonitor-Setup.exe](https://github.com/LEDGNDARYbrahmin/Antigravity-Cascade/releases/latest/download/AntigravityMonitor-Setup.exe)**
 2. Run the `.exe`.
-3. The app will install and create a desktop shortcut (icon updates pending).
 
 ### macOS & Linux (Roadmap)
 Support for macOS (.dmg) and Linux (.AppImage/.deb) is currently in development.
